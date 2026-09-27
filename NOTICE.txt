@@ -1,0 +1,5 @@
+OpenVPN for Android external API compatibility files are based on the project's remoteExample:
+https://github.com/schwabe/ics-openvpn/tree/master/remoteExample
+
+OpenVPN for Android author: Arne Schwabe.
+The project documentation states that the remoteExample/external control code is Apache-2.0 licensed and is not subject to the main application's GPL for external AIDL control.
